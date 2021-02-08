@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AC7669A3-E1A7-44F8-A030-91FA818F91D4}</ProjectGuid>
+    <ProjectGuid>{5348FE10-562A-476D-A4C7-8D373D40D005}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Sistema_Cadastro</RootNamespace>
-    <AssemblyName>Sistema_Cadastro</AssemblyName>
+    <RootNamespace>SistemaCadastro</RootNamespace>
+    <AssemblyName>SistemaCadastro</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
